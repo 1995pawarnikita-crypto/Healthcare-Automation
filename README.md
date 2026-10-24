@@ -1,19 +1,28 @@
-# 🏥 Healthcare Automation
+# 🏥 Healthcare Website Testing Automation Project
 
 A software project designed to simplify healthcare-related workflows through automation and improve the efficiency of routine tasks.
 
 ## 📌 Project Overview
+This project focuses on developing a comprehensive Quality Assurance (QA) and Test Automation framework for a healthcare website. The objective is to ensure functionality, reliability, usability, and performance through automated testing practices. The project includes UI testing, API testing, unit testing, and CI/CD integration..
 
-Healthcare Automation aims to make healthcare processes more organized, efficient, and easier to manage through software solutions. The project is developed using Java and Maven.
-
-## ✨ Features
-
-- Automation of healthcare-related workflows
-- Structured Java application
-- Maven-based project management
-- Organized and maintainable codebase
-
-*Note: Update this section to reflect the features actually implemented in the application.*
+## ✨ Project Objectives
+Perform browser-based testing using Selenium WebDriver
+Conduct backend unit testing using TestNG
+Execute API testing using Postman
+Automate test execution using Jenkins
+Validate healthcare website functionalities and workflows
+Generate and maintain test reports for analysis
+Tech Stack
+Java
+Selenium WebDriver
+TestNG
+Postman
+Jenkins
+Maven
+Git
+GitHub
+Eclipse IDE
+These tools are specifically mentioned as part of the project requirements and industry-relevant technologies.
 
 ## 🛠️ Technologies Used
 
