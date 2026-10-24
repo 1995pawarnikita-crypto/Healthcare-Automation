@@ -90,4 +90,7 @@ No license has been specified yet. Add a license file if you intend to distribut
 ---
 
 **Developed by Nikita Pawar**
+QA Automation Engineer (Fresher)
+LinkedIn: https://www.linkedin.com/in/nikita-pawar-956153170/
+GitHub: https://github.com/1995pawarnikita-crypto
 
