@@ -24,11 +24,16 @@ GitHub
 Eclipse IDE
 These tools are specifically mentioned as part of the project requirements and industry-relevant technologies.
 
-## 🛠️ Technologies Used
-
-- **Programming Language:** Java
-- **Build Tool:** Apache Maven
-- **Project Structure:** Standard Maven directory structure
+## 🛠️ Tech Stack
+-Java
+-elenium WebDriver
+-TestNG
+-Postman
+-Jenkins
+-Maven
+-Git
+-GitHub
+-Eclipse IDE
 
 ## 📂 Project Structure
 
